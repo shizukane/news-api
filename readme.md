@@ -1,6 +1,6 @@
 # News-API
 ## Description
-This is an application that will help list and preview news articles from various places.
+This is an application which will help list and preview news articles from various places.
 ### Setup instruction
 Open your data network and go to your browser open github and clone my repository and send a pull request. 
  ## Technologies 
