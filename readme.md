@@ -1,4 +1,4 @@
-# News-Highlights
+# News-API
 ## Description
 This is an application that will help list and preview news articles from various sources.
 ### Setup instruction
