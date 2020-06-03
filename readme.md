@@ -15,7 +15,7 @@ Pull request is welcome for any information contact me on my number or email.
 ## Author and acknowledgment
 By Shizukane Darolle
 ## Code Beat
-[![codebeat badge](https://codebeat.co/badges/c7e25312-1388-41b9-aeb2-009d873c4756)](https://codebeat.co/projects/github-com-habibahassan-news-highlight-master)
+[![codebeat badge](https://codebeat.co/badges/c7e25312-1388-41b9-aeb2-009d873c4756)](https://codebeat.co/projects/github-com-shizukane-news-api-master)
 ## Contacts
 * Tel:+254794812973
 * Email:drizydarolle@gmail.com
