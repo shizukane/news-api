@@ -11,7 +11,7 @@ Open your data network and go to your browser open github and clone my repositor
 * Bootstrap 4
 * News Api
 ## Contributing
-Pull request is acceptable for any information contact me on my number or email.
+Pull request is acceptable for any information contact me on my number or email..
 ## Author and acknowledgment
 By Shizukane Darolle
 ## Code Beat
