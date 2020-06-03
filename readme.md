@@ -21,5 +21,5 @@ By Shizukane Darolle
 * Email:drizydarolle@gmail.com
 ## License
 licensed under the [MIT License](license)
- copyright(c) 2020 News-Highlights
+ copyright(c) 2020 News-Api
 
